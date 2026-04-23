@@ -1,7 +1,7 @@
 package javaTask_BLC_ELC;
 
 
-public class LibraryProgram {
+ class LibraryProgram {
     // Business Logic Class (BLC)
     static class Library {
         private int bookId;
